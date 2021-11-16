@@ -180,7 +180,7 @@
 }
 
 #portfolio-container-inner{
-
+    position:relative;
     width:100%;
 }
 
